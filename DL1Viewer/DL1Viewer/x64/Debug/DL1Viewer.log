@@ -1,0 +1,2 @@
+﻿LINK : error LNK2001: неразрешенный внешний символ mainCRTStartup.
+C:\Users\zmod3535\Documents\CRYENGINE Projects\CRYENGINE-5.6.7-release\Code\CryPlugins\DL1Viewer\x64\Debug\DL1Viewer.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
